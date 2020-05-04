@@ -1,1 +1,1 @@
-module github.com/ekino/godim
+module github.com/titouanfreville/godim
